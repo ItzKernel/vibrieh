@@ -1,0 +1,8 @@
+{
+    "pattern": "X0X0X0X0X0",
+    "note": "^^^ you can either set this to a sequence with X&O-s, 'full' or 'random'",
+    "delay_millis": 200,
+
+    "small_motor_level": 255,
+    "big_motor_level": 255
+}
