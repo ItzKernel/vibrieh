@@ -22,11 +22,6 @@ impl Controller {
         buf[9] = 0xff;
         buf[10] = 0x00;
         
-        //while true {
         let _ = &self.0.write(&buf);
-        
-            
-        //}
-            //thread::sleep(time::Duration::from_millis(1000));
     }
 }

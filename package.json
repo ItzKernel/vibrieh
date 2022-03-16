@@ -1,7 +1,7 @@
 {
-  "name": "kinky_shit",
+  "name": "vibrieh",
   "version": "1.0.0",
-  "description": "sowwy for being horny hehe",
+  "description": "PS4 controller vibration program",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
